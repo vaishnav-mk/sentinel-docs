@@ -5,7 +5,14 @@
   "business-model": "Business Model",
   "demo-videos": "Demo Videos",
   "github_link": {
-    "title": "Sentinel Repository",
-    "href": "https://github.com/vaibhavraj-exe/sentinel"
+    "title": "Github Repository",
+    "href": "https://github.com/vaibhavraj-exe/sentinel",
+    "newWindow": true
+  },
+  "github": {
+    "title": "Github Repository",
+    "href": "https://github.com/vaibhavraj-exe/sentinel",
+    "newWindow": true,
+    "type": "page"
   }
 }
